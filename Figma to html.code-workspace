@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Figma to html",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
